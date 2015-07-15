@@ -18,7 +18,7 @@ To download the project, click on the "Download ZIP" button. It will take a whil
   - file format:
       - if you want to read the subset values from a file, it should be stored in a text file, where every line contains the value of one subset. Here is an example for the contnt of such a file, given 4 agents (i.e., 4 elements):
 
-0\\
+0\n
 30
 40
 50
